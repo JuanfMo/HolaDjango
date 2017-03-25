@@ -1,1 +1,1 @@
-web: gunicorn djholamundo.wsgi
+web: gunicorn PrimerWeb.wsgi
